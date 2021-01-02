@@ -7,14 +7,17 @@
 <br />
 ## Menu
 ![Menu](/preview/ArchLabs1.png)
-Relevant files: [config/rofi/rofimenu.config](config/rofi/rofimenu.config)
-Relevant files: [config/rofi/rofiscript.sh](config/rofi/rofiscript.sh)
-Relevant files: [config/rofi/sidemenu2.rasi](config/rofi/sidemenu2.rasi)
+Relevant files: [.config/rofi/rofimenu.config](.config/rofi/rofimenu.config)
+
+Relevant files: [.config/rofi/rofiscript.sh](.config/rofi/rofiscript.sh)
+
+Relevant files: [.config/rofi/sidemenu2.rasi](.config/rofi/sidemenu2.rasi)
 <br />
 ## Control_Center
 ![Control_Center](/preview/ArchLabs2.png)
-Relevant files: [config/polybar/dropdown/polybar_modules/tablet_options](config/polybar/dropdown/polybar_modules/tablet_options)
-Relevant files: [config/polybar/dropdown/polybar_tablet](config/polybar/dropdown/polybar_tablet)
+Relevant files: [.config/polybar/dropdown/polybar_modules/tablet_options](.config/polybar/dropdown/polybar_modules/tablet_options)
+
+Relevant files: [.config/polybar/dropdown/polybar_tablet](.config/polybar/dropdown/polybar_tablet)
 
 
 * Distro: [ArchLabs](https://archlabslinux.com/)
